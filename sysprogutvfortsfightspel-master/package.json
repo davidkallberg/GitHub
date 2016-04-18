@@ -1,0 +1,24 @@
+{
+  "name": "sysprogutvfortsfightspel",
+  "version": "0.0.1",
+  "description": "hej",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://LinAGKar@github.com/LinAGKar/sysprogutvfortsfightspel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LinAGKar/sysprogutvfortsfightspel/issues"
+  },
+  "homepage": "https://github.com/LinAGKar/sysprogutvfortsfightspel#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  }
+}
